@@ -1,0 +1,6 @@
+body { font-family: Arial; background: #f9fbfd; }
+.container { margin: 50px auto; width: 400px; padding: 2em; background: #fff; border-radius: 12px; box-shadow: 0 8px 24px #bbb4; }
+input, button { margin: 10px 0; }
+.progress-bar { height: 36px; width: 100%; background: #e4e6ea; border-radius: 8px; margin: 12px 0; overflow: hidden; }
+.progress-bar-fill { height: 100%; background: #2a72ff; width: 0; transition: width .3s; }
+#status { margin: 8px 0; }
